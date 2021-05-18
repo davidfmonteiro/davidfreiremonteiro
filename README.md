@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @davidfreiremonteiro
+- 👀 I’m interested in building all sorts of apps and mechanisms
+- 🌱 I’m currently learning Solidity
